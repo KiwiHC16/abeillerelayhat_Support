@@ -1,5 +1,7 @@
 # abeillerelayhat
 
+![Capture d’écran 2021-08-03 à 17 51 48](https://user-images.githubusercontent.com/8549674/128046691-9f86af3c-0eb2-48c8-8252-899b3f3f93f4.png)
+
 Work in progress
 
 ## Documentation
