@@ -7,9 +7,8 @@ Work in progress
 ## Documentation
 
 Ce plugin permet de controler les 4 relais de la carte Seeed Relay Hat.
-Il faut activer le bus I2C sur le RPI par l intermediaire de la commande:
+Le plugin ne prend pas en compte l'installation au niveau systeme de la carte et vous devez le faire manuellement.
 
-sudo raspi-config
 
 ### Installation
 
