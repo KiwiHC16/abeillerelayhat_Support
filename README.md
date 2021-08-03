@@ -39,7 +39,16 @@ Visible à l adresse 0x20.
 
 sudo pip install smbus
 
+#### Controle du premier relai
 
+cd /var/www/html/plugins/abeillerelayhat/3rdparty/seeed-studio-relay-v2
+sudo python seeed_relay_test.py
+(saisir 1on et 1off pour faire basculer le relai et finir avec un ctrl-C)
+input: 1on
+ON_1...
+input: 1off
+OFF_1...
+input: ^CALL OFF...
 
 ## Changelog
 
