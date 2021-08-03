@@ -9,6 +9,9 @@ Il faut activer le bus I2C sur le RPI par l intermediaire de la commande:
 
 sudo raspi-config
 
+### Installation
+
+https://wiki.seeedstudio.com/Raspberry_Pi_Relay_Board_v1.0/
 
 
 ## Changelog
