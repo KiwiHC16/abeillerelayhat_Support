@@ -28,6 +28,14 @@ raspi-config
 ![Capture d’écran 2021-08-03 à 17 49 15](https://user-images.githubusercontent.com/8549674/128046535-eb8a132c-8828-482f-a92e-c0eb81fadafa.png)
 
 
+#### Verifier que l on voit la carte
+
+i2cdetect -y -r 1
+
+![Capture d’écran 2021-08-03 à 17 54 04](https://user-images.githubusercontent.com/8549674/128047007-d5e7b542-f9b1-4e79-9786-b6ccd60bf2bc.png)
+
+Visible à l adresse 0x20.
+
 ## Changelog
 
 
