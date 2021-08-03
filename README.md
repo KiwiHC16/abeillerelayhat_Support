@@ -35,6 +35,12 @@ i2cdetect -y -r 1
 
 Visible à l adresse 0x20.
 
+#### smbus
+
+sudo pip install smbus
+
+
+
 ## Changelog
 
 
