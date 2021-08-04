@@ -71,13 +71,16 @@ pour créer un nouveau en lui donnant un nom:
 ![Capture d’écran 2021-08-04 à 10 59 49](https://user-images.githubusercontent.com/8549674/128153271-92fbb740-2ecc-4f81-9c4c-562560ce224b.png)
 
 Rattachez le à un objet (ici: Home) et indiquez l'adresse I2C de la carte:
+
 ![Capture d’écran 2021-08-04 à 11 00 59](https://user-images.githubusercontent.com/8549674/128153425-d9c19431-601d-4f3e-83bd-88a03a2a5ffd.png)
 
 Sauvegardez.
 
 Le widget de controle de la carte doit maintenant être visible sur le dashboard:
+
 ![Capture d’écran 2021-08-04 à 11 02 04](https://user-images.githubusercontent.com/8549674/128153573-1034b430-5598-4d09-b17c-f5a2ff562258.png)
 
+Vous pouvez l utiliser.
 
 ## Changelog
 
