@@ -30,6 +30,7 @@ sudo raspi-config
 #### Verifier que l on voit la carte
 
 sudo apt install -y i2c-tools
+
 sudo i2cdetect -y -r 1
 
 ![Capture d’écran 2021-08-03 à 17 54 04](https://user-images.githubusercontent.com/8549674/128047007-d5e7b542-f9b1-4e79-9786-b6ccd60bf2bc.png)
