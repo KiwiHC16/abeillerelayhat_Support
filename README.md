@@ -40,6 +40,7 @@ Visible à l adresse 0x20.
 #### smbus
 
 sudo pip install smbus
+sudo apt install python-smbus
 
 #### Controle du premier relai
 
