@@ -16,7 +16,7 @@ https://wiki.seeedstudio.com/Raspberry_Pi_Relay_Board_v1.0/
 
 #### Activer l I2C
 
-raspi-config
+sudo raspi-config
 
 ![Capture d’écran 2021-08-03 à 17 48 51](https://user-images.githubusercontent.com/8549674/128046460-4aabcb8f-22ec-46b6-aea5-8137c23ed04f.png)
 
@@ -29,7 +29,8 @@ raspi-config
 
 #### Verifier que l on voit la carte
 
-i2cdetect -y -r 1
+sudo apt install -y i2c-tools
+sudo i2cdetect -y -r 1
 
 ![Capture d’écran 2021-08-03 à 17 54 04](https://user-images.githubusercontent.com/8549674/128047007-d5e7b542-f9b1-4e79-9786-b6ccd60bf2bc.png)
 
