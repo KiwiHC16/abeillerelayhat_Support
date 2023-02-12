@@ -82,6 +82,8 @@ Rattachez le à un objet (ici: Home) et indiquez l'adresse I2C de la carte:
 
 Sauvegardez.
 
+Attention: l adresse ici est en decimale. Si vous aviez une adresse à 0x20, ici il faut mettre 32.
+
 Le widget de controle de la carte doit maintenant être visible sur le dashboard:
 
 ![Capture d’écran 2021-08-04 à 11 02 04](https://user-images.githubusercontent.com/8549674/128153573-1034b430-5598-4d09-b17c-f5a2ff562258.png)
