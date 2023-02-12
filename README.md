@@ -43,6 +43,8 @@ sudo pip install smbus
 
 sudo apt install python-smbus
 
+sudo apt install python3-smbus
+
 #### Controle du premier relai
 
 ```shell
